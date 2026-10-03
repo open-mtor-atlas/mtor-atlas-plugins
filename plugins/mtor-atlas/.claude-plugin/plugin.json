@@ -1,0 +1,10 @@
+{
+  "name": "mtor-atlas",
+  "version": "1.2.2",
+  "description": "Read-only access to Oliver's mTOR Atlas: curated mTOR studies labelled by evidence type (human, animal, molecular), signed pathway relations with supporting and conflicting studies, and open questions.",
+  "author": { "name": "Oliver's mTOR Atlas", "url": "https://mtor-atlas.org" },
+  "homepage": "https://mtor-atlas.org/api/#mcp",
+  "repository": "https://github.com/open-mtor-atlas/atlas",
+  "license": "MIT",
+  "keywords": ["mtor", "mTORC1", "rapamycin", "aging", "biology", "research"]
+}
