@@ -1,0 +1,16 @@
+{
+  "name": "mtor-atlas",
+  "description": "Oliver's mTOR Atlas for Claude Code: evidence-labelled mTOR research through a read-only MCP server",
+  "owner": {
+    "name": "Oliver's mTOR Atlas",
+    "url": "https://mtor-atlas.org"
+  },
+  "plugins": [
+    {
+      "name": "mtor-atlas",
+      "source": "./plugins/mtor-atlas",
+      "description": "Curated mTOR studies labelled by evidence type, pathway claims with supporting and conflicting studies, open questions",
+      "version": "1.2.2"
+    }
+  ]
+}
