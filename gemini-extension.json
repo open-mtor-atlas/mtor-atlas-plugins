@@ -1,0 +1,9 @@
+{
+  "name": "mtor-atlas",
+  "version": "1.2.2",
+  "description": "Oliver's mTOR Atlas: curated mTOR studies labelled by evidence type, pathway claims with supporting and conflicting studies, open questions. Read-only.",
+  "mcpServers": {
+    "mtor-atlas": { "httpUrl": "https://mtor-atlas-mcp.mtor-atlas.workers.dev/mcp" }
+  },
+  "contextFileName": "GEMINI.md"
+}
