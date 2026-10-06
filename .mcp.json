@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "mtor-atlas": { "type": "http", "url": "https://mtor-atlas-mcp.mtor-atlas.workers.dev/mcp" }
+  }
+}
