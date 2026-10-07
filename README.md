@@ -1,5 +1,7 @@
 # Oliver's mTOR Atlas: plugins for AI assistants
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/open-mtor-atlas-mtor-atlas-plugins-154l01?v=a02bc1670a21ac528778da0c9a174333)](https://m8ven.ai/mcp/open-mtor-atlas-mtor-atlas-plugins-154l01?s=readme)
+
 Small install packages for [Oliver's mTOR Atlas](https://mtor-atlas.org), a curated, evidence-labelled corpus of mTOR research. Each one connects your assistant to the Atlas's public, read-only MCP server:
 
 `https://mtor-atlas-mcp.mtor-atlas.workers.dev/mcp` (Streamable HTTP, no key, no account)
